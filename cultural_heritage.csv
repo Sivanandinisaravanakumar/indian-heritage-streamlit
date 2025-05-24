@@ -1,32 +1,48 @@
-Site_Name,State,Year_Inscribed,Type,Description,
-Ajanta Caves,Maharashtra,1983,Cultural,Ancient Buddhist cave monuments and masterpieces of Buddhist art,
-Ellora Caves,Maharashtra,1983,Cultural,34 monasteries and temples from 7th–11th centuries,
-Agra Fort,Uttar Pradesh,1983,Cultural,16th-century Mughal fortress with palaces and mosques,
-Taj Mahal,Uttar Pradesh,1983,Cultural,Iconic white marble mausoleum and symbol of India,
-Sun Temple,Odisha,1984,Cultural,13th-century Hindu temple representing the chariot of Surya,
-Group of Monuments at Mahabalipuram,Tamil Nadu,1984,Cultural,Pallava dynasty monuments and rock reliefs,
-Churches and Convents of Goa,Goa,1986,Cultural,Baroque churches and convents from 16th–17th centuries,
-Khajuraho Group of Monuments,Madhya Pradesh,1986,Cultural,Temples with nagara-style architecture and sculptures,
-Group of Monuments at Hampi,Karnataka,1986,Cultural,Ruins of the Vijayanagara Empire,
-Group of Monuments at Pattadakal,Karnataka,1987,Cultural,Chalukya dynasty temples blending northern and southern styles,
-Elephanta Caves,Maharashtra,1987,Cultural,Cave temples dedicated to Shiva,
-Great Living Chola Temples,Tamil Nadu,1987,Cultural,Chola dynasty temples with Dravidian architecture,
-Fatehpur Sikri,Uttar Pradesh,1986,Cultural,Mughal city built by Emperor Akbar,
-Buddhist Monuments at Sanchi,Madhya Pradesh,1989,Cultural,Stupas and temples from Mauryan to Gupta period,
-Humayun's Tomb,Delhi,1993,Cultural,First garden-tomb on the Indian subcontinent,
-Qutb Minar and its Monuments,Delhi,1993,Cultural,Tallest brick minaret(Indo-Islamic architecture),
-Red Fort Complex,Delhi,2007,Cultural,17th-century Mughal fortress,
-Jantar Mantar, Jaipur,2010,Cultural,18th-century astronomical observatory,
-Hill Forts of Rajasthan,Rajasthan,2013,Cultural,Six majestic forts across Rajasthan,
-Rani-ki-Vav (the Queen’s Stepwell),Gujarat,2014,Cultural,11th-century stepwell(Maru-Gurjara architecture),
-Archaeological Site of Nalanda Mahavihara,Bihar,2016,Cultural,Ancient Buddhist monastic university,
-Historic City of Ahmedabad,Gujarat,2017,Cultural,First Indian city inscribed as World Heritage City,
-Victorian Gothic and Art Deco Ensembles of Mumbai,Maharashtra,2018,Cultural,19th and 20th-century urban architecture,
-Jaipur City,Rajasthan,2019,Cultural,Planned city of the 18th century,
-Dholavira: a Harappan City,Gujarat,2021,Cultural,Ancient Indus Valley Civilization city,
-Ramappa Temple (Kakatiya Rudreshwara),Telangana,2021,Cultural,13th-century sandstone temple,
-Mudumal Megalithic Menhirs,Telangana,2025,Tentative,Prehistoric standing stones(3500–4000 years old),
-Ashokan Edict Sites along Mauryan Routes,Multiple,2025,Tentative,Rock and pillar edicts of Emperor Ashoka,
-Chausath Yogini Temples,Multiple,2025,Tentative,13 temples dedicated to goddess Durga,
-Gupta Temples in North India,Multiple,2025,Tentative,20 temples from the Gupta period,
-Palace-Fortresses of the Bundelas,Madhya Pradesh/Uttar Pradesh,2025,Tentative,Majestic Bundela dynasty forts and palaces,
+Site Name,Location (Village/City),State,Type,Year Added,Description,Latitude,Longitude
+Mudumal Megalithic Menhirs,Mudumal Village,Telangana,Cultural,2025,"Iron Age megalithic site with ancient stone alignments",18.1800,79.6000
+Chausath Yogini Temple,Mitaoli Village,Madhya Pradesh,Cultural,2025,"Circular temple with 64 yogini statues in a rural setting",26.2847,78.1108
+Chausath Yogini Temple,Hirapur Village,Odisha,Cultural,2025,"Unique circular yogini shrine in a small village",20.1833,85.9500
+Gupta Temple,Deogarh Village,Uttar Pradesh,Cultural,2025,"Dashavatara Temple, early Gupta dynasty architecture",24.5475,78.5847
+Kakatiya Rudreshwara (Ramappa) Temple,Palampet Village,Telangana,Cultural,2021,"13th-century temple with floating bricks in a rural area",18.2374,79.9436
+Unakoti,Unakoti Village,Tripura,Cultural,2020,"Rock-cut carvings and sculptures in a forested tribal area",24.3275,92.0146
+Bhojeshwar Mahadev Temple,Bhojpur Village,Madhya Pradesh,Cultural,2024,"Unfinished medieval Shiva temple in a rural setting",23.1167,77.5833
+Sun Temple,Modhera Village,Gujarat,Cultural,2022,"11th-century Maru-Gurjara temple in a village",23.5945,72.1401
+Champaner-Pavagadh Archaeological Park,Champaner Town,Gujarat,Cultural,2004,"Pre-Mughal archaeological park in a small town",22.4950,73.5333
+Rock Shelters of Bhimbetka,Bhimbetka Village,Madhya Pradesh,Cultural,2003,"Prehistoric cave paintings in rural central India",22.9369,77.6121
+Rani ki Vav,Patan Town,Gujarat,Cultural,2014,"Stepwell with intricate carvings in a small town",23.8500,72.1167
+Chand Baori,Abhaneri Village,Rajasthan,Cultural,2015,"Ancient stepwell with geometric design in a village",27.0041,76.6076
+Santiniketan,Santiniketan Town,West Bengal,Cultural,2023,"Tagore's university town, center of Bengali culture",23.6778,87.6856
+Dholavira,Dholavira Village,Gujarat,Cultural,2022,"Harappan archaeological site in Kutch desert village",23.8859,70.2182
+Ajanta Caves,Ajanta Village,Maharashtra,Cultural,1983,"Ancient Buddhist cave paintings in a remote valley",20.5519,75.7033
+Taj Mahal,Agra City,Uttar Pradesh,Cultural,1983,"Iconic Mughal mausoleum in a major city",27.1751,78.0421
+Sun Temple,Konark Town,Odisha,Cultural,1984,"13th-century stone temple in a coastal town",19.8876,86.0945
+Group of Monuments at Mahabalipuram,Mahabalipuram Town,Tamil Nadu,Cultural,1984,"Pallava dynasty rock-cut monuments in a small port town",12.6208,80.1932
+Moidams – Mound-Burial System,Charaideo Town,Assam,Cultural,2024,"Royal burial mounds of the Ahom Dynasty in a small town",27.0800,95.0400
+Serial Ashokan Edict Site,Lauriya Nandangarh,Bihar,Cultural,2025,"Ashokan pillar with inscriptions in a small town",26.9956,84.6501
+Serial Ashokan Edict Site,Delhi City,Delhi,Cultural,2025,"Ashokan pillar in the heart of the capital",28.6562,77.2410
+Serial Ashokan Edict Site,Junagadh City,Gujarat,Cultural,2025,"Rock edicts at the foot of Girnar hills",21.5222,70.4579
+Serial Ashokan Edict Site,Sannati Village,Karnataka,Cultural,2025,"Ashokan edicts in a small village",16.2400,76.8500
+Serial Ashokan Edict Site,Erragudi Village,Andhra Pradesh,Cultural,2025,"Ashokan edicts in a remote village",15.5667,78.5333
+Serial Ashokan Edict Site,Deori Village,Madhya Pradesh,Cultural,2025,"Ashokan edicts in a rural setting",23.3900,79.0800
+Serial Ashokan Edict Site,Kausambi Town,Uttar Pradesh,Cultural,2025,"Ashokan pillar in a historic town",25.3380,81.3980
+Palace-Fortresses of the Bundelas,Orchha Town,Madhya Pradesh,Cultural,2025,"Historic Bundela dynasty fort complex in a small town",25.3516,78.6400
+Palace-Fortresses of the Bundelas,Datia Town,Madhya Pradesh,Cultural,2025,"Bundela fort and palace in a small town",25.6725,78.4580
+Palace-Fortresses of the Bundelas,Chanderi Town,Madhya Pradesh,Cultural,2025,"Hilltop fort and medieval town",24.7136,78.1386
+Palace-Fortresses of the Bundelas,Garhkundar Village,Madhya Pradesh,Cultural,2025,"Bundela fort in a rural village",25.8544,78.7992
+Palace-Fortresses of the Bundelas,Deogarh Village,Uttar Pradesh,Cultural,2025,"Bundela fort in a village",24.5475,78.5847
+Palace-Fortresses of the Bundelas,Kalpi Town,Uttar Pradesh,Cultural,2025,"Bundela fort in a small town",26.1167,79.7333
+Great Himalayan National Park,Shamshi Village,Himachal Pradesh,Natural,2014,"Biodiversity-rich park in a remote mountain valley",31.7500,77.3333
+Mahabodhi Temple,Bodh Gaya Town,Bihar,Cultural,2002,"Buddha's enlightenment site in a small town",24.6950,84.9914
+Buddhist Monuments at Sanchi,Sanchi Town,Madhya Pradesh,Cultural,1989,"Stupas and monasteries in a small town",23.4793,77.7369
+Hill Forts of Rajasthan,Kumbhalgarh Town,Rajasthan,Cultural,2013,"Massive hill fort in a rural setting",25.1467,73.5831
+Hill Forts of Rajasthan,Chittorgarh Town,Rajasthan,Cultural,2013,"Historic fort in a small city",24.8887,74.6269
+Hill Forts of Rajasthan,Ranthambore Town,Rajasthan,Cultural,2013,"Fort in the forested region",26.0173,76.5026
+Hill Forts of Rajasthan,Gagron Town,Rajasthan,Cultural,2013,"Fort at the confluence of rivers in a small town",24.6448,76.1602
+Hill Forts of Rajasthan,Amber Town,Rajasthan,Cultural,2013,"Amber Fort near Jaipur",26.9855,75.8507
+Hill Forts of Rajasthan,Jaisalmer City,Rajasthan,Cultural,2013,"Living fort in the desert city",26.9124,70.9124
+Fatehpur Sikri,Fatehpur Sikri Town,Uttar Pradesh,Cultural,1986,"Mughal capital in a small town",27.0937,77.6600
+Red Fort Complex,Delhi City,Delhi,Cultural,2007,"Mughal fort in the capital",28.6562,77.2410
+Qutb Minar and its Monuments,Delhi City,Delhi,Cultural,1993,"Historic minaret and monuments in the capital",28.5244,77.1855
+Churches and Convents of Goa,Old Goa Town,Goa,Cultural,1986,"Portuguese-era churches in a small town",15.5042,73.9122
+Group of Monuments at Hampi,Hampi Village,Karnataka,Cultural,1986,"Vijayanagara ruins in a rural village",15.3350,76.4600
+Group of Monuments at Pattadakal,Pattadakal Village,Karnataka,Cultural,1987,"Chalukya temples in a small village",15.9477,75.8180
